@@ -1,4 +1,4 @@
-# Analytics_Projects
+# Analytics & Programming Mini Projects
 
 My analitycs pet projects.
 
